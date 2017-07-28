@@ -1,0 +1,16 @@
+Hi I am trying to install flo py on python using pip with the instruction here
+https://modflowpy.github.io/flopydoc/introduction.html
+pip install flopy
+this is what i get:
+_____________________________________________________________________________________________
+Python 3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:14:34) [MSC v.1900 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> pip install flopy
+SyntaxError: invalid syntax
+>>> 
+___________________________________________________
+
+I have been searching for a while, and pip should be installed on Python.  Based on the response from python shell, 
+this means that pip is not installed.. but pip comes pre installed on python 3.6.2...
+I am a newbie at python, you will have guessed.  I use modflow through different GUIs but interested in Flopy capabilities.
+cheers & thks
